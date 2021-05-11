@@ -1,0 +1,11 @@
+# 开发环境配置
+server:
+  # 服务器的HTTP端口，默认为8080
+  port: 6082
+
+# Minio配置
+minio:
+  url: http://223.240.83.26:8999
+  accessKey: minio
+  secretKey: weymu@minio
+  bucketName: weymu
