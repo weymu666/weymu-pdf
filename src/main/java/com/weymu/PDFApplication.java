@@ -1,4 +1,4 @@
-package com.weymu.pdf;
+package com.weymu;
 
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
